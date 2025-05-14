@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(black, gray, white);
+}
+
+header a{
+    color: red;
+    background-color: orange;
+    font-size: 30px;
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 40px;
+    padding: 15px;
+    margin: 30px
+}
+
+.gradient-text {
+  background: linear-gradient(to right, red, orange, yellow, green, lightblue, blue, purple);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li{
+    font-size: 20px;
+}
